@@ -94,7 +94,7 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                                     </p>
                                 </div>
                                 <div class="side-img">
-                                    <img src="img/save-place.jpg" alt="advantages">
+                                    <img src="img/save-place1.png" alt="advantages">
                                 </div>
                             </div>
                         </div>

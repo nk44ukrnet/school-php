@@ -61,7 +61,8 @@
     <div class="header__wrapper">
         <div class="header__content">
             <div class="header__logo">
-                <a href="index"><img src="img/logo.svg" alt="logo"></a>
+<!--                <a href="index"><img src="img/logo.svg" alt="logo"></a>-->
+                <a href="index"><img src="img/logo-v2.png" alt="logo"></a>
             </div>
             <nav class="header__nav">
                 <ul id="headerNavUl">
