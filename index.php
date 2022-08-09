@@ -191,6 +191,7 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                         <div class="packages__cell">Освітні програми НУШ</div>
                         <div class="packages__cell">Високотехнологічне сучасне оснащення школи</div>
                         <div class="packages__cell">Вивчення англійської мови за підручниками Academy Stars (Macmillan Education)</div>
+                        <div class="packages__cell">Курс «Творче конструювання»</div>
                         <div class="packages__cell">Поглиблене вивчення української мови і літератури за авторською методикою</div>
                         <div class="packages__cell">Робототехніка, Основи механіки, Програмування</div>
                         <div class="packages__cell">Медичний супровід</div>
