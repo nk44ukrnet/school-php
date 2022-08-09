@@ -1,0 +1,25 @@
+.contacts {
+  &__wrapper {
+    .template_size();
+    background-image: url(../img/cont_bg1920.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+  }
+
+  &__container {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    .content_size();
+    h1 {
+      .heading-primary();
+      padding-bottom: 80px;
+    }
+    @media (max-width: @bp-sm) {
+      h1 {
+        br {
+          display: none;
+        }
+      }
+    }
+  }
+}

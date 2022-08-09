@@ -1,0 +1,59 @@
+.programs {
+  &__wrapper  {
+    .template_size();
+    background-image: url(../img/ed_prog_worm_bot.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+  }
+
+  &__container {
+    .content_size();
+    padding-top: 40px;
+    padding-bottom: 40px;
+    h1 {
+      .heading-primary();
+      padding-bottom: 40px;
+    }
+  }
+
+  &__list {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(min-content, 363px));
+    @media (max-width: @bp-md) {
+      justify-content: center;
+    }
+    &-item {
+      cursor: pointer;
+      background-color: @gray-light;
+      .inner {
+        max-width: 363px;
+        &-img {
+          position: relative;
+          &:before {
+            content: '';
+            width: 100%;
+            height: 4px;
+            bottom: 0;
+            left: 0;
+            display: block;
+            position: absolute;
+            background-color: rgba(@gray-primary, .5);
+          }
+          img {
+            .img-responsive();
+            max-width: 363px;
+            object-fit: cover;
+          }
+        }
+        p {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          line-height: 24px;
+          padding: 27px 17px 19px;
+        }
+      }
+    }
+  }
+}

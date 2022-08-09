@@ -1,0 +1,178 @@
+.about-develop {
+  &__container {
+    .content_size();
+    padding-top: 80px;
+
+    h1 {
+      .heading-primary();
+      padding-bottom: 60px;
+    }
+
+    @media (max-width: @bp-md) {
+      padding-top: 40px;
+      h1 {
+        padding-bottom: 30px;
+      }
+    }
+  }
+
+  &__content {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(min-content, 740px));
+    padding-bottom: 20px;
+
+    &:nth-of-type(even) {
+      .about-develop__item {
+        .about-develop__item-img {
+          order: 2;
+        }
+      }
+    }
+
+    @media (max-width: 1529px) {
+      justify-content: center;
+      grid-template-columns: repeat(auto-fit, 1fr);
+    }
+    @media (max-width: @bp-md) {
+      grid-template-columns: 1fr;
+      &:nth-of-type(even) {
+        .about-develop__item {
+          .about-develop__item-img {
+            order: 1;
+          }
+
+          .about-develop__item-text {
+            order: 2;
+          }
+        }
+      }
+    }
+  }
+
+  &__item {
+    background-color: @gray-light;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &-img {
+      img {
+        display: block;
+        height: 100%;
+        width: auto;
+        max-width: 384px;
+        object-fit: cover;
+      }
+    }
+
+    &-text {
+      max-width: 320px;
+      margin: 0 auto;
+
+      h3 {
+        .heading-secondary();
+        padding-bottom: 20px;
+      }
+    }
+
+    @media (max-width: @bp-md) {
+      flex-direction: column;
+      &-img {
+        padding-bottom: 30px;
+      }
+
+      &-text {
+        padding-bottom: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+      }
+    }
+    @media (max-width: @bp-sm) {
+      &-img {
+        img {
+          width: 100%;
+          height: auto;
+        }
+      }
+    }
+  }
+
+}
+
+.about-inventor {
+  &__wrapper {
+    position: relative;
+    .template_size();
+    &:before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 123px;
+      height: 244px;
+      background-image: url(../img/about_pink_circle.png);
+    }
+    @media (max-width: @bp-lg) {
+      &:before {
+        display: none;
+      }
+    }
+  }
+  &__container {
+    .content_size();
+    padding-top: 80px;
+    h2 {
+      .heading-primary();
+      padding-bottom: 60px;
+      position: relative;
+      z-index: 2;
+    }
+    @media (max-width: @bp-lg) {
+      padding-top: 20px;
+      h2 {
+        padding-bottom: 30px;
+      }
+    }
+  }
+  &__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+
+    @media (max-width: 1510px) {
+      justify-content: center;
+    }
+  }
+  &__item {
+    flex: 0 1 740px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: @gray-light;
+    margin-bottom: 20px;
+    &-text {
+      padding: 23px;
+    }
+    &-text-bold {
+      .heading-secondary();
+      font-weight: 600;
+    }
+    &-img {
+      img {
+        .img-responsive();
+      }
+    }
+    @media (max-width: 1510px) {
+      margin-bottom: 0;
+      &:nth-child(5) {
+        order: 5;
+      }
+      &:nth-child(6) {
+        order: 6;
+      }
+    }
+  }
+}

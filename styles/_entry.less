@@ -1,0 +1,131 @@
+.entry {
+
+  &__wrapper {
+    .template_size();
+    background-color: @gray-light;
+    background-image: url(../img/enter_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: contain;
+    @media (max-width: @bp-xl) {
+    background-image: none;
+    }
+  }
+
+  &__container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    .content_size();
+    h1 {
+      .heading-primary();
+      padding-bottom: 40px;
+    }
+    .btn {
+      background-color: #fff;
+      color: #000;
+      .heading-secondary();
+      .shadow();
+      @media (any-hover: hover) {
+         &:hover {
+          text-decoration: none;
+         }
+      }
+    }
+  }
+
+}
+
+
+.entry-aim {
+
+  &__wrapper {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    .template_size();
+    overflow-x: hidden;
+  }
+
+  &__container {
+    .content_size();
+    h2 {
+      .heading-primary();
+      padding-bottom: 40px;
+    }
+  }
+
+  &__holder {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    &-item {
+      background-color: @gray-light;
+      flex: 0 0 49%;
+      padding: 37px;
+      display: flex;
+      align-items: center;
+      position: relative;
+      &:before {
+        content: '';
+        display: block;
+        position: absolute;
+        width: 100vw;
+        height: 100%;
+        background-color: inherit;
+        z-index: -1;
+      }
+      &:nth-child(even) {
+        &:before {
+          top: 0;
+          left: 0;
+        }
+      }
+      &:nth-child(odd) {
+        &:before {
+          top: 0;
+          right: 0;
+        }
+      }
+      &.entry-aim__holder-item-big {
+        .heading-secondary();
+        font-weight: 600;
+        font-family: @fontMedium;
+      }
+    }
+    @media (max-width: @bp-lg) {
+      flex-direction: column;
+      &-item {
+        &:not(:last-child) {
+          margin-bottom: 20px;
+        }
+        &:before {
+          display: none;
+        }
+      }
+    }
+  }
+
+}
+
+.entry-useful-links {
+
+  &__wrapper {
+    .template_size();
+    overflow-x: hidden;
+    background-image: url(../img/enter_bot_circle.png);
+    background-repeat: no-repeat;
+    background-position: top left 400px;
+  }
+
+  &__container {
+    .content_size();
+    padding-top: 40px;
+    padding-bottom: 40px;
+    h2 {
+      .heading-primary();
+      padding-bottom: 40px;
+    }
+    @media (max-width: @bp-lg) {
+      padding-top: 0;
+    }
+  }
+}

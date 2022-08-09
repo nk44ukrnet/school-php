@@ -1,0 +1,69 @@
+.footer {
+  &__wrapper {
+    background-color: @gray-light;
+  }
+
+  &__container {
+    .content_size();
+    padding-top: 40px;
+    padding-bottom: calc(40px - 24px);
+    position: relative;
+    @media (min-width: @bp-lg) {
+      &:after {
+        content: '';
+        display: block;
+        bottom: 0;
+        right: 0;
+        width: 261px;
+        height: 264px;
+        background-image: url(../img/fhd_gena.png);
+        position: absolute;
+      }
+      &.footer-no-gena {
+        &:after {
+          display: none;
+        }
+      }
+    }
+  }
+
+  &__inner {
+    width: 100%;
+    max-width: 800px;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(min-content, 386px));
+  }
+
+  &__item {
+    display: flex;
+    align-items: center;
+
+    &-img {
+      margin-right: 20px;
+    }
+
+    &-text {
+      a {
+        text-decoration: none;
+        color: inherit;
+        font-family: @fontMedium;
+        transition: all .25s linear;
+        @media (any-hover: hover) {
+          &:hover {
+            opacity: .6;
+          }
+        }
+      }
+    }
+
+    @media (max-width: @bp-sm) {
+      &-img {
+        margin-right: 10px;
+        img {
+          width: 40px;
+        }
+      }
+    }
+  }
+}

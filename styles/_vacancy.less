@@ -1,0 +1,32 @@
+.vacancy {
+  &__wrapper {
+    .template_size();
+    background-image: url(../img/vac_bg.png);
+  }
+  &__container {
+    padding-top: 80px;
+    .content_size();
+    padding-bottom: 80px;
+    margin-bottom: 80px;
+    h1 {
+      .heading-primary();
+      padding-bottom: 40px;
+    }
+  }
+  &__text, &__cta {
+    max-width: 712px;
+  }
+
+  &__cta {
+    padding-top: 40px;
+    .heading-secondary();
+    a {
+      color: inherit;
+      @media (any-hover: hover) {
+         &:hover {
+          text-decoration: underline;
+         }
+      }
+    }
+  }
+}
