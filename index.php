@@ -183,7 +183,9 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                         <div class="packages__cell"><strong>2 клас</strong></div>
                         <div class="packages__cell">Щорічний внесок 10 000 грн.</div>
                         <div class="packages__cell">Перебування у школі неповний навчальний день з 8:00 до 14:15</div>
-                        <div class="packages__cell">Власне бомбосховище з можливістю продовження навчального процесу</div>
+                        <div class="packages__cell">Для учасників навчального процесу підготовлені безпечне укриття, яке
+                            відповідає всім вимогам
+                        </div>
                         <div class="packages__cell">Класи не більше 12 учнів</div>
                         <div class="packages__cell">Електронне освітнє середовище "1 учень – 1 iPad"</div>
                         <div class="packages__cell">Освітні програми НУШ</div>
