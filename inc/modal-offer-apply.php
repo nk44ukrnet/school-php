@@ -23,7 +23,7 @@
                            max="17" required>
                 </div>
                 <div class="form-group">
-                    <select name="selec_school" class="schools-list">
+                    <select name="selec_school" class="schools-list" required>
                         <option value="" selected disabled> Оберіть найближчу школу</option>
 <!--                        <option value="м.Позняки, вул.Б.Гмирі, 6">м.Позняки, вул.Б.Гмирі, 6</option>-->
 <!--                        <option value="м.Осокорки, вул.Дніпровська Набережна, 25а">м.Осокорки, вул.Дніпровська-->
