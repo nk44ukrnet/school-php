@@ -446,9 +446,13 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                         <form class="form-offer" name="offer-ask">
                             <div class="inner">
                                 <div class="side">
-                                    <input type="text" required placeholder="ім’я (обов’язково)" name="name">
-                                    <input type="email" required placeholder="еmail (обов’язково)" name="email">
-                                    <input type="tel" required placeholder="телефон" name="theme">
+                                    <input type="text" required placeholder="ім’я (обов’язково)" name="name_submit_hidden">
+                                    <input type="email" required placeholder="еmail (обов’язково)" name="email_submit_hidden">
+                                    <input type="tel" required placeholder="телефон (обов’язково)" name="phone_submit_hidden">
+                                    <input type="number" required placeholder="Вік дитини (обов’язково)" name="age_submit_hidden">
+                                    <select name="selec_school" class="schools-list">
+                                        <option value="" selected disabled>Оберіть школу</option>
+                                    </select>
                                 </div>
                                 <div class="side">
                                     <textarea name="message" placeholder="текст запитання"></textarea>
