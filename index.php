@@ -339,7 +339,7 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     </tr>
                     </tbody>
                 </table>
-                <table style="border-collapse: collapse; width: 761pt;" width="1014">
+                <table style="border-collapse: collapse; width: 761pt;" width="1023">
                     <colgroup>
                         <col style="width: 92pt;" width="123">
                         <col style="width: 140pt;" width="186">
