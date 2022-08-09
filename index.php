@@ -545,7 +545,7 @@ $desc = "INVENTOR початкова школа - це школа, де вико
         try {
             let currentHash = window.location.hash;
             let visitorCurrentSite = document.getElementById('visitorCurrentSite');
-            visitorChooseSite.remove(); // DEL AFTER DEV
+            //visitorChooseSite.remove(); // DEL AFTER DEV
             if (currentHash == '#no-popup') visitorChooseSite.remove();
 
             visitorCurrentSite.addEventListener('click', function (e) {
