@@ -150,9 +150,9 @@ $desc = "INVENTOR початкова школа - це школа, де вико
             <div class="content_size">
                 <div class="packages__holder">
                     <div class="packages__item">
-                        <div class="packages__cell packages__cell_highlight">10 000 грн</div>
+                        <div class="packages__cell packages__cell_highlight">10 000 грн./місяць</div>
                         <div class="packages__cell"><strong>1 клас</strong></div>
-                        <div class="packages__cell">Щорічний внесок 10 000 грн./місяць</div>
+                        <div class="packages__cell">Щорічний внесок 10 000 грн.</div>
                         <div class="packages__cell">Перебування у школі неповний навчальний день з 8:00 до 14:15</div>
                         <div class="packages__cell">Для учасників навчального процесу підготовлені безпечне укриття, яке
                             відповідає всім вимогам
@@ -179,9 +179,9 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                         </div>
                     </div>
                     <div class="packages__item">
-                        <div class="packages__cell packages__cell_highlight">10 000 грн</div>
+                        <div class="packages__cell packages__cell_highlight">10 000 грн./місяць</div>
                         <div class="packages__cell"><strong>2 клас</strong></div>
-                        <div class="packages__cell">Щорічний внесок 10 000 грн./місяць</div>
+                        <div class="packages__cell">Щорічний внесок 10 000 грн.</div>
                         <div class="packages__cell">Перебування у школі неповний навчальний день з 8:00 до 14:15</div>
                         <div class="packages__cell">Власне бомбосховище з можливістю продовження навчального процесу</div>
                         <div class="packages__cell">Класи не більше 12 учнів</div>
