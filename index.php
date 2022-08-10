@@ -500,13 +500,12 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                 <img src="https://school.inventorschool.org.ua/wp-content/themes/inventor2/img/about-screen1-i2a.png"
                      alt="School">
                 <div class="index-overlay__container__item-text">
-                    <h6>Початкові STEM-школи неповного дня на Осокорках, Позняках, Нивках, Оболоні</h6>
+                    <h6>Початкові STEM-школи неповного дня</h6>
                     <p>
                         Це ліцензовані початкові школи неповного дня для дітей 6-10 років. Тут ми також використовуємо
                         STEM-підхід, але додаємо програму початкової школи. Дитина проводить у школі половину дня і
                         вчиться
-                        загальноосвітнім предметам через гру, власні проєкти і дискусії. Таких шкіл у нас 4, усі в
-                        Києві.
+                        загальноосвітнім предметам через гру, власні проєкти і дискусії.
                     </p>
                     <div class="index-overlay__container__item-a-holder">
                         <a href="#!" class="index-overlay__container__item-a" id="visitorCurrentSite">Сайт школи

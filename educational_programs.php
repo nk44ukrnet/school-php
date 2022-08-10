@@ -31,7 +31,7 @@ include "inc/header.php";
                                 <img src="img/ed_prog2.png" alt="program">
                             </div>
                             <p>
-                                Математика та логіка
+                                Математика
                             </p>
                         </div>
                     </div>
@@ -58,7 +58,7 @@ include "inc/header.php";
                         </div>
                     </div>
 
-                    <div class="programs__list-item" data-modal-id="modalProgram5">
+               <!--     <div class="programs__list-item" data-modal-id="modalProgram5">
                         <div class="inner">
                             <div class="inner-img">
                                 <img src="img/ed_prog5.png" alt="program">
@@ -67,7 +67,7 @@ include "inc/header.php";
                                 Початкова механіка
                             </p>
                         </div>
-                    </div>
+                    </div>-->
 
                     <div class="programs__list-item" data-modal-id="modalProgram6">
                         <div class="inner">
@@ -80,7 +80,7 @@ include "inc/header.php";
                         </div>
                     </div>
 
-                    <div class="programs__list-item" data-modal-id="modalProgram7">
+                <!--    <div class="programs__list-item" data-modal-id="modalProgram7">
                         <div class="inner">
                             <div class="inner-img">
                                 <img src="img/ed_prog7.png" alt="program">
@@ -89,7 +89,7 @@ include "inc/header.php";
                                 Kid’s project (рівень 1)
                             </p>
                         </div>
-                    </div>
+                    </div>-->
 
                     <div class="programs__list-item" data-modal-id="modalProgram8">
                         <div class="inner">
@@ -102,7 +102,7 @@ include "inc/header.php";
                         </div>
                     </div>
 
-                    <div class="programs__list-item" data-modal-id="modalProgram9">
+                 <!--   <div class="programs__list-item" data-modal-id="modalProgram9">
                         <div class="inner">
                             <div class="inner-img">
                                 <img src="img/ed_prog9.png" alt="program">
@@ -111,9 +111,9 @@ include "inc/header.php";
                                 Minecraft Education
                             </p>
                         </div>
-                    </div>
+                    </div>-->
 
-                    <div class="programs__list-item" data-modal-id="modalProgram10">
+                    <!--<div class="programs__list-item" data-modal-id="modalProgram10">
                         <div class="inner">
                             <div class="inner-img">
                                 <img src="img/ed_prog10.png" alt="program">
@@ -122,9 +122,9 @@ include "inc/header.php";
                                 Kid’s project (рівень 2)
                             </p>
                         </div>
-                    </div>
+                    </div>-->
 
-                    <div class="programs__list-item" data-modal-id="modalProgram11">
+                 <!--   <div class="programs__list-item" data-modal-id="modalProgram11">
                         <div class="inner">
                             <div class="inner-img">
                                 <img src="img/ed_prog11.png" alt="program">
@@ -133,9 +133,9 @@ include "inc/header.php";
                                 Практична механіка
                             </p>
                         </div>
-                    </div>
+                    </div>-->
 
-                    <div class="programs__list-item" data-modal-id="modalProgram12">
+                  <!--  <div class="programs__list-item" data-modal-id="modalProgram12">
                         <div class="inner">
                             <div class="inner-img">
                                 <img src="img/ed_prog12.png" alt="program">
@@ -145,8 +145,8 @@ include "inc/header.php";
                             </p>
                         </div>
                     </div>
-
-                    <div class="programs__list-item" data-modal-id="modalProgram13">
+-->
+                    <!--<div class="programs__list-item" data-modal-id="modalProgram13">
                         <div class="inner">
                             <div class="inner-img">
                                 <img src="img/ed_prog13.png" alt="program">
@@ -156,9 +156,9 @@ include "inc/header.php";
                                 Mindstorms
                             </p>
                         </div>
-                    </div>
+                    </div>-->
 
-                    <div class="programs__list-item" data-modal-id="modalProgram14">
+                    <!--<div class="programs__list-item" data-modal-id="modalProgram14">
                         <div class="inner">
                             <div class="inner-img">
                                 <img src="img/ed_prog14.png" alt="program">
@@ -168,9 +168,9 @@ include "inc/header.php";
                                 віртуальній реальності
                             </p>
                         </div>
-                    </div>
+                    </div>-->
 
-                    <div class="programs__list-item" data-modal-id="modalProgram15">
+              <!--      <div class="programs__list-item" data-modal-id="modalProgram15">
                         <div class="inner">
                             <div class="inner-img">
                                 <img src="img/ed_prog15.png" alt="program">
@@ -179,9 +179,9 @@ include "inc/header.php";
                                 Science
                             </p>
                         </div>
-                    </div>
+                    </div>-->
 
-                    <div class="programs__list-item" data-modal-id="modalProgram16">
+                 <!--   <div class="programs__list-item" data-modal-id="modalProgram16">
                         <div class="inner">
                             <div class="inner-img">
                                 <img src="img/ed_prog16.png" alt="program">
@@ -190,7 +190,7 @@ include "inc/header.php";
                                 First Startup
                             </p>
                         </div>
-                    </div>
+                    </div>-->
 
                     <div class="programs__list-item" data-modal-id="modalProgram17">
                         <div class="inner">
