@@ -58,6 +58,85 @@ include "inc/header.php";
                         </div>
                     </div>
 
+                    <div class="programs__list-item" data-modal-id="modalProgram22">
+                        <div class="inner">
+                            <div class="inner-img">
+                                <img src="img/photo1660133304.jpeg" alt="program">
+                            </div>
+                            <p>
+                                Основи робототехніки (Spike Essential)
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="programs__list-item" data-modal-id="modalProgram23">
+                        <div class="inner">
+                            <div class="inner-img">
+                                <img src="img/ed23.jpg" alt="program">
+                            </div>
+                            <p>
+                                Курс “Розвиток продуктивного мислення”
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="programs__list-item" data-modal-id="modalProgram24">
+                        <div class="inner">
+                            <div class="inner-img">
+                                <img src="img/ed24.jpg" alt="program">
+                            </div>
+                            <p>
+                                Курс “Творче конструювання”
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="programs__list-item" data-modal-id="modalProgram19">
+                        <div class="inner">
+                            <div class="inner-img">
+                                <img src="img/ed_prog19.png" alt="program">
+                            </div>
+                            <p>
+                                Ранкова зустріч
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="programs__list-item" data-modal-id="modalProgram17">
+                        <div class="inner">
+                            <div class="inner-img">
+                                <img src="img/ed_prog17.png" alt="program">
+                            </div>
+                            <p>
+                                Підготовка до Robotica
+                                та WRO
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="programs__list-item" data-modal-id="modalProgram21">
+                        <div class="inner">
+                            <div class="inner-img">
+                                <img src="img/ed_prog21.png" alt="program">
+                            </div>
+                            <p>
+                                Організація відпочинку та дозвілля
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="programs__list-item" data-modal-id="modalProgram20">
+                        <div class="inner">
+                            <div class="inner-img">
+                                <img src="img/ed_prog20.png" alt="program">
+                            </div>
+                            <p>
+                                Школа Усвідомленого
+                                батьківства
+                            </p>
+                        </div>
+                    </div>
+
                     <!--     <div class="programs__list-item" data-modal-id="modalProgram5">
                              <div class="inner">
                                  <div class="inner-img">
@@ -192,17 +271,7 @@ include "inc/header.php";
                            </div>
                        </div>-->
 
-                    <div class="programs__list-item" data-modal-id="modalProgram17">
-                        <div class="inner">
-                            <div class="inner-img">
-                                <img src="img/ed_prog17.png" alt="program">
-                            </div>
-                            <p>
-                                Підготовка до Robotica
-                                та WRO
-                            </p>
-                        </div>
-                    </div>
+
 
                     <!--                    <div class="programs__list-item" data-modal-id="modalProgram18">-->
                     <!--                        <div class="inner">-->
@@ -215,72 +284,11 @@ include "inc/header.php";
                     <!--                        </div>-->
                     <!--                    </div>-->
 
-                    <div class="programs__list-item" data-modal-id="modalProgram19">
-                        <div class="inner">
-                            <div class="inner-img">
-                                <img src="img/ed_prog19.png" alt="program">
-                            </div>
-                            <p>
-                                Ранкова зустріч
-                            </p>
-                        </div>
-                    </div>
 
-                    <div class="programs__list-item" data-modal-id="modalProgram20">
-                        <div class="inner">
-                            <div class="inner-img">
-                                <img src="img/ed_prog20.png" alt="program">
-                            </div>
-                            <p>
-                                Школа Усвідомленого
-                                батьківства
-                            </p>
-                        </div>
-                    </div>
 
-                    <div class="programs__list-item" data-modal-id="modalProgram21">
-                        <div class="inner">
-                            <div class="inner-img">
-                                <img src="img/ed_prog21.png" alt="program">
-                            </div>
-                            <p>
-                                Організація відпочинку та дозвілля
-                            </p>
-                        </div>
-                    </div>
 
-                    <div class="programs__list-item" data-modal-id="modalProgram22">
-                        <div class="inner">
-                            <div class="inner-img">
-                                <img src="img/photo1660133304.jpeg" alt="program">
-                            </div>
-                            <p>
-                                Основи робототехніки (Spike Essential)
-                            </p>
-                        </div>
-                    </div>
 
-                    <div class="programs__list-item" data-modal-id="modalProgram23">
-                        <div class="inner">
-                            <div class="inner-img">
-                                <img src="img/ed23.jpg" alt="program">
-                            </div>
-                            <p>
-                                Курс “Розвиток продуктивного мислення”
-                            </p>
-                        </div>
-                    </div>
 
-                    <div class="programs__list-item" data-modal-id="modalProgram24">
-                        <div class="inner">
-                            <div class="inner-img">
-                                <img src="img/ed24.jpg" alt="program">
-                            </div>
-                            <p>
-                                Курс “Творче конструювання”
-                            </p>
-                        </div>
-                    </div>
 
 
                 </div>
