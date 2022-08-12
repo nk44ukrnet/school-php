@@ -61,20 +61,20 @@ include "inc/header.php";
         </div>
     </section>
 
-    <section class="entry-useful-links">
-        <div class="entry-useful-links__wrapper">
-            <div class="entry-useful-links__container">
-                <h2>Корисні документи:</h2>
-                <div class="entry-useful-links__list">
-                    <a href="https://don.kyivcity.gov.ua/files/2017/9/1/3.PDF">Ліцензія на освітню діяльність</a>
-                    <br><br>
-                    <a href="files/program.pdf">Освітня програма</a>
-                    <br><br>
-                    <a href="files/concept.pdf">Концепція діяльності Інвентор Скул</a>
-                </div>
-            </div>
-        </div>
-    </section>
+<!--    <section class="entry-useful-links">-->
+<!--        <div class="entry-useful-links__wrapper">-->
+<!--            <div class="entry-useful-links__container">-->
+<!--                <h2>Корисні документи:</h2>-->
+<!--                <div class="entry-useful-links__list">-->
+<!--                    <a href="https://don.kyivcity.gov.ua/files/2017/9/1/3.PDF">Ліцензія на освітню діяльність</a>-->
+<!--                    <br><br>-->
+<!--                    <a href="files/program.pdf">Освітня програма</a>-->
+<!--                    <br><br>-->
+<!--                    <a href="files/concept.pdf">Концепція діяльності Інвентор Скул</a>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </section>-->
 </main>
 
 <?php include "inc/modal-offer-apply.php"; ?>
