@@ -271,6 +271,17 @@ include "inc/header.php";
                         </div>
                     </div>
 
+                    <div class="programs__list-item" data-modal-id="modalProgram24">
+                        <div class="inner">
+                            <div class="inner-img">
+                                <img src="img/ed24.jpg" alt="program">
+                            </div>
+                            <p>
+                                Курс “Творче конструювання”
+                            </p>
+                        </div>
+                    </div>
+
 
                 </div>
 
@@ -880,6 +891,29 @@ include "inc/header.php";
             <br><br>
             Дитина володіє основними операціями та прийомами мислення (логічного та творчого). Вдосконалюється
             кмітливість, просторова уява, пам'ять та увага.
+        </div>
+    </div>
+</div>
+
+<div class="modal modal__backdrop" id="modalProgram24">
+    <div class="modal__container">
+        <div class="modal__heading">
+            <a href="#!" class="close">
+                <img src="img/cross.png" alt="close">
+            </a>
+            <br>
+            <img src="img/ed24.jpg" alt="program" class="img-responsive">
+            <br>
+        </div>
+        <div class="modal__body">
+            <br>
+            <strong>Що вивчаємо:</strong>
+            <br><br>
+            Якісну взаємодію з Lego-цеглинками, способи креативного мислення, самовираження через створення моделі (згідно запропонованої теми).
+            <br><br>
+            <strong>Яких результатів досягаємо:</strong>
+            <br><br>
+            Дитина креативно та творчо мислить, поважає індивідуальність і отримує задоволення від роботи у команді. Знає правила ефективної презентації. Укріплює свою самооцінку, навчиться розуміти свій психо-емоційний стан та оволодіє способам його корекції з метою утримання внутрішньої рівноваги.
         </div>
     </div>
 </div>
