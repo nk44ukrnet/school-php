@@ -11,8 +11,8 @@ const contactPhoneA = {
 };
 
 const contactEmail = {
-    text: 'info@inventorschool.org',
-    href: 'mailto:mailto:info@inventorschool.org',
+    text: 'info@inventor.com.ua',
+    href: 'mailto:info@inventor.com.ua',
 }
 
 const phone = document.querySelectorAll('._phone'),

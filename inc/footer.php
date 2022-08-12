@@ -7,7 +7,7 @@
                         <img src="img/mobile_contact_fb.png" alt="icon">
                     </div>
                     <div class="footer__item-text">
-                        <a href="https://www.facebook.com/inventorschool/">www.facebook.com/inventorschool/</a>
+                        <a href="https://www.facebook.com/charter.inventorschool">fb.com/charter.inventorschool</a>
                     </div>
                 </div>
                 <div class="footer__item">
