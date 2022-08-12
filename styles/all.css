@@ -1802,6 +1802,7 @@ a {
   width: 100%;
   height: auto;
   max-width: 363px;
+  height: 169px;
   object-fit: cover;
 }
 .programs__list-item .inner p {
