@@ -246,7 +246,7 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                         <td class="xl29" style="width: 125pt;" width="167">Ранкова зустріч</td>
                         <td class="xl29" style="width: 141pt;" width="188">Ранкова зустріч</td>
                         <td class="xl29" style="width: 131pt;" width="174">Ранкова зустріч</td>
-                        <td class="xl29" style="width: 152pt;" width="202">Ранкова зустріч</td>
+                        <td class="xl29" style="width: 152pt;" width="202">Фізична культура</td>
                     </tr>
                     <tr style="height: 26.25pt;">
                         <td class="xl30" style="width: 75pt; height: 26.25pt;" width="100" height="35">09:10-09:25</td>
@@ -322,9 +322,9 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     </tr>
                     <tr style="height: 40.5pt;">
                         <td class="xl27" style="height: 40.5pt;" height="54">13:35-14:15</td>
-                        <td class="xl42" style="width: 144pt;" width="192">Творче конструювання</td>
+                        <td class="xl42" style="width: 144pt;" width="192">Фізична культура</td>
                         <td class="xl39">Мистецтво</td>
-                        <td class="xl42" style="width: 141pt;" width="188">Творче конструювання</td>
+                        <td class="xl42" style="width: 141pt;" width="188">Фізична культура</td>
                         <td class="xl42" style="width: 152pt;" width="202">Творче конструювання</td>
                     </tr>
                     </tbody>
@@ -355,10 +355,10 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     <tr style="height: 30.75pt;">
                         <td class="xl46" style="height: 30.75pt;" height="41">08:30-09:10</td>
                         <td class="xl47" style="width: 140pt;" width="186">Ранкова зустріч</td>
-                        <td class="xl48" style="width: 125pt;" width="167">Ранкова зустріч</td>
+                        <td class="xl48" style="width: 125pt;" width="167">Фізична культура</td>
                         <td class="xl48" style="width: 133pt;" width="177">Ранкова зустріч</td>
-                        <td class="xl48" style="width: 123pt;" width="164">Ранкова зустріч</td>
-                        <td class="xl48" style="width: 148pt;" width="197">Ранкова зустріч</td>
+                        <td class="xl48" style="width: 123pt;" width="164">Фізична культура</td>
+                        <td class="xl48" style="width: 148pt;" width="197">Фізична культура</td>
                     </tr>
                     <tr style="height: 24.0pt;">
                         <td class="xl49" style="width: 92pt; height: 24.0pt;" width="123" height="32">09:10-09:25</td>
