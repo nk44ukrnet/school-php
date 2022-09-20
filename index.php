@@ -488,6 +488,7 @@ $desc = "INVENTOR початкова школа - це школа, де вико
 
 
 <?php
+//disable popup with get request
 $popUpInfo = $_GET['popup'];
 if (!isset($popUpInfo) || $popUpInfo != 'false') {
     ?>
