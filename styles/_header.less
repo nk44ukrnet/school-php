@@ -31,9 +31,11 @@
     right: 50%;
     transform: translate(50%, 100%);
 
-    ._phone {
+    span {
       text-align: right;
-      display: block;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
       width: -moz-fit-content;
       width: fit-content;
       margin-left: auto;
@@ -48,7 +50,7 @@
     }
 
     @media (max-width: @bp-md) {
-      ._phone {
+      span {
         box-shadow: none;
         padding: 5px 5px;
         border-radius: 0;

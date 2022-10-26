@@ -151,9 +151,11 @@ a {
   right: 50%;
   transform: translate(50%, 100%);
 }
-.header__phone ._phone {
+.header__phone span {
   text-align: right;
-  display: block;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
   width: -moz-fit-content;
   width: fit-content;
   margin-left: auto;
@@ -164,12 +166,12 @@ a {
   box-shadow: 3px 5px 8px rgba(198, 198, 198, 0.25);
 }
 @media (max-width: 992px) {
-  .header__phone ._phone {
+  .header__phone span {
     font-size: inherit;
   }
 }
 @media (max-width: 768px) {
-  .header__phone ._phone {
+  .header__phone span {
     box-shadow: none;
     padding: 5px 5px;
     border-radius: 0;

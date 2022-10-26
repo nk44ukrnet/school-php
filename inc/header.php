@@ -84,7 +84,10 @@
             </a>
         </div>
         <div class="header__phone">
+            <span>
+            <a href="tel:+380503155790"><i class="fas fa-phone-alt"></i> +38 (050) 315 57 90</a>
             <a href="" class="_phone"><i class="fas fa-phone-alt"></i> </a>
+            </span>
         </div>
     </div>
 </header>
