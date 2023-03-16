@@ -9,7 +9,7 @@ $desc = "INVENTOR початкова школа - це школа, де вико
         <section class="hero">
             <div class="hero__wrapper">
                 <div class="hero__container">
-                    <h1>Ліцензована школа</h1>
+                    <h1>Початкова школа <br> Inventor School</h1>
                     <h2>
                         Для дітей 6 – 10 років з освітньою
                         <br>
@@ -17,7 +17,8 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     </h2>
                     <a href="#!" class="btn offer-btn" data-modal-id="modalOffer">Записатися на консультацію</a>
                     <p class="desc">
-                        Inventor School – початкова школа, яка знаходиться поруч з вашою домівкою. Це зручна, безпечна і
+                        Inventor School – ліцензована початкова школа, яка знаходиться поруч з вашою домівкою. Це
+                        зручна, безпечна і
                         сучасна форма навчання. Діти навчаються за авторською програмою з додаванням STEM-підходу.
                         Професійна команда вчителів робить все для ефективного розвитку дітей і створює доброзичливу
                         атмосферу навчання.
@@ -156,24 +157,32 @@ $desc = "INVENTOR початкова школа - це школа, де вико
             <div class="content_size">
                 <div class="packages__holder">
                     <div class="packages__item">
-                        <div class="packages__cell packages__cell_highlight">11 000 грн./місяць</div>
+                        <div class="packages__cell packages__cell_highlight">15 000* грн/місяць</div>
                         <div class="packages__cell"><strong>1 клас</strong></div>
-                        <div class="packages__cell">Щорічний внесок 10 000 грн.</div>
+                        <div class="packages__cell">Щорічний внесок 16 500 грн.</div>
                         <div class="packages__cell">Перебування у школі неповний навчальний день з 8:00 до 14:15</div>
                         <div class="packages__cell">Для учасників навчального процесу підготовлені безпечне укриття, яке
                             відповідає всім вимогам
                         </div>
                         <div class="packages__cell">Класи не більше 12 учнів</div>
-                        <div class="packages__cell">Електронне освітнє середовище "1 учень – 1 iPad"</div>
-                        <div class="packages__cell">Освітні програми НУШ</div>
-                        <div class="packages__cell">Високотехнологічне сучасне оснащення школи</div>
-                        <div class="packages__cell">Робототехніка, Основи механіки, Програмування</div>
+                        <div class="packages__cell">Електронне освітнє середовище</div>
+                        <div class="packages__cell">Авторські програми з усіх предметів згідно з Державним стандартом
+                        </div>
                         <div class="packages__cell">Вивчення англійської мови за підручниками Academy Stars (Macmillan
                             Education)
                         </div>
+                        <div class="packages__cell">Поглиблене вивчення української мови і літератури за авторською
+                            методикою
+                        </div>
+                        <div class="packages__cell">Поглиблене вивчення математики за адаптованою сінгапурською
+                            методикою
+                        </div>
+                        <div class="packages__cell">
+                            Проєктно-модульна система навачання
+                        </div>
+                        <div class="packages__cell">Високотехнологічне сучасне оснащення школи</div>
+                        <div class="packages__cell">Робототехніка, Основи механіки, Програмування</div>
                         <div class="packages__cell">Курс "Творче конструювання"</div>
-                        <div class="packages__cell">Додатковий курс "Розвиток продуктивного мислення"</div>
-                        <div class="packages__cell">Медичний супровід</div>
                         <div class="packages__cell">Психологічний супровід</div>
                         <div class="packages__cell">Охорона, відеоспостереження</div>
                         <div class="packages__cell packages__cell_highlight">Сплачується додатково</div>
@@ -187,27 +196,34 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                         </div>
                     </div>
                     <div class="packages__item">
-                        <div class="packages__cell packages__cell_highlight">11 000 грн./місяць</div>
+                        <div class="packages__cell packages__cell_highlight">15 000* грн/місяць</div>
                         <div class="packages__cell"><strong>2 клас</strong></div>
-                        <div class="packages__cell">Щорічний внесок 10 000 грн.</div>
+                        <div class="packages__cell">Щорічний внесок 16 500 грн.</div>
                         <div class="packages__cell">Перебування у школі неповний навчальний день з 8:00 до 14:15</div>
                         <div class="packages__cell">Для учасників навчального процесу підготовлені безпечне укриття, яке
                             відповідає всім вимогам
                         </div>
                         <div class="packages__cell">Класи не більше 12 учнів</div>
-                        <div class="packages__cell">Електронне освітнє середовище "1 учень – 1 iPad"</div>
-                        <div class="packages__cell">Освітні програми НУШ</div>
-                        <div class="packages__cell">Високотехнологічне сучасне оснащення школи</div>
+                        <div class="packages__cell">Електронне освітнє середовище</div>
+                        <div class="packages__cell">Авторські програми з усіх предметів згідно з Державним стандартом
+                        </div>
                         <div class="packages__cell">Вивчення англійської мови за підручниками Academy Stars (Macmillan
                             Education)
                         </div>
-                        <div class="packages__cell">Курс «Творче конструювання»</div>
                         <div class="packages__cell">Поглиблене вивчення української мови і літератури за авторською
                             методикою
                         </div>
+                        <div class="packages__cell">Поглиблене вивчення математики за адаптованою сінгапурською
+                            методикою
+                        </div>
+                        <div class="packages__cell">
+                            Проєктно-модульна система навачання
+                        </div>
+                        <div class="packages__cell">Високотехнологічне сучасне оснащення школи</div>
+                        <div class="packages__cell">Курс «Творче конструювання»</div>
                         <div class="packages__cell">Робототехніка, Основи механіки, Програмування</div>
-                        <div class="packages__cell">Медичний супровід</div>
                         <div class="packages__cell">Психологічний супровід</div>
+
                         <div class="packages__cell">Охорона, відеоспостереження</div>
                         <div class="packages__cell packages__cell_highlight">Сплачується додатково</div>
                         <div class="packages__cell">Спеціалізоване дитяче харчування за вибором</div>
@@ -220,233 +236,252 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                         </div>
                     </div>
                 </div>
+                <p>* Вартість навчання у школі на Печерську (вул. Старонаводницька, 4В) 16 000 грн/міс</p>
+                <br>
             </div>
         </section>
 
         <section class="schedule">
             <div class="content_size">
                 <h2 class="heading-primary">Розклад</h2>
-                <table style="border-collapse: collapse; width: 767pt;" width="1023">
-                    <colgroup>
-                        <col style="width: 75pt;" width="100">
-                        <col style="width: 144pt;" width="192">
-                        <col style="width: 125pt;" width="167">
-                        <col style="width: 141pt;" width="188">
-                        <col style="width: 131pt;" width="174">
-                        <col style="width: 152pt;" width="202">
-                    </colgroup>
+                <p class="text-center">Орієнтовний розклад для 1-го класу</p>
+                <br>
+                <table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="100"><col width="100"><col width="100"><col width="100"><col width="100"><col width="100"></colgroup>
                     <tbody>
-                    <tr style="height: 38.25pt;">
-                        <td class="xl71" style="width: 767pt; height: 38.25pt;" colspan="6" width="1023" height="51">
-                            Орієнтовний розклад 1 клас
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Понеділок&quot;}">Понеділок</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Вівторок&quot;}">Вівторок</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Середа&quot;}">Середа</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Четвер&quot;}">Четвер</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;П'ятниця&quot;}">П'ятниця</td>
+                    </tr>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;08:30-09:10&quot;}">08:30-09:10</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ранкова зустріч&quot;}">Ранкова зустріч</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">Фізична культура</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Тренінг з емоційного інтелекту&quot;}">Тренінг з емоційного інтелекту</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">Фізична культура</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Творче конструювання&quot;}">
+                            <div>
+                                <div>Творче конструювання</div>
+                            </div>
                         </td>
                     </tr>
-                    <tr style="height: 18.75pt;">
-                        <td class="xl44" style="height: 18.75pt;" height="25">&nbsp;</td>
-                        <td class="xl44">Понеділок</td>
-                        <td class="xl44">Вівторок</td>
-                        <td class="xl44">Середа</td>
-                        <td class="xl44">Четвер</td>
-                        <td class="xl44">П'ятниця</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09:10-09:25&quot;}">09:10-09:25</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
                     </tr>
-                    <tr style="height: 28.5pt;">
-                        <td class="xl27" style="height: 28.5pt;" height="38">08:30-09:10</td>
-                        <td class="xl28" style="width: 144pt;" width="192">Ранкова зустріч</td>
-                        <td class="xl29" style="width: 125pt;" width="167">Ранкова зустріч</td>
-                        <td class="xl29" style="width: 141pt;" width="188">Ранкова зустріч</td>
-                        <td class="xl29" style="width: 131pt;" width="174">Ранкова зустріч</td>
-                        <td class="xl29" style="width: 152pt;" width="202">Фізична культура</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09:25-10:05&quot;}">09:25-10:05</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Математика&quot;}">Математика</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Математика&quot;}">Математика</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Математика&quot;}">Математика</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Математика&quot;}">Математика</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Математика&quot;}">Математика</td>
                     </tr>
-                    <tr style="height: 26.25pt;">
-                        <td class="xl30" style="width: 75pt; height: 26.25pt;" width="100" height="35">09:10-09:25</td>
-                        <td class="xl31" style="width: 144pt;" width="192">Перерва</td>
-                        <td class="xl31" style="width: 125pt;" width="167">Перерва</td>
-                        <td class="xl31" style="width: 141pt;" width="188">Перерва</td>
-                        <td class="xl31" style="width: 131pt;" width="174">Перерва</td>
-                        <td class="xl31" style="width: 152pt;" width="202">Перерва</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10:05-10:35&quot;}">10:05-10:35</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Сніданок&quot;}">Сніданок</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Сніданок&quot;}">Сніданок</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Сніданок&quot;}">Сніданок</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Сніданок&quot;}">Сніданок</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Сніданок&quot;}">Сніданок</td>
                     </tr>
-                    <tr style="height: 52.5pt;">
-                        <td class="xl27" style="height: 52.5pt;" height="70">09:25-10:05</td>
-                        <td class="xl32">Математика</td>
-                        <td class="xl33">Іноземна мова</td>
-                        <td class="xl32">Математика</td>
-                        <td class="xl34">Навчання грамоти</td>
-                        <td class="xl32">Математика</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10:35-11:15&quot;}">10:35-11:15</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">
+                            <div>
+                                <div>Українська мова</div>
+                            </div>
+                        </td>
                     </tr>
-                    <tr style="height: 30.75pt;">
-                        <td class="xl27" style="height: 30.75pt;" height="41">10:05-10:35</td>
-                        <td class="xl35">Сніданок</td>
-                        <td class="xl35">Сніданок</td>
-                        <td class="xl35">Сніданок</td>
-                        <td class="xl35">Сніданок</td>
-                        <td class="xl35">Сніданок</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11:15-11:30&quot;}">11:15-11:30</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
                     </tr>
-                    <tr style="height: 47.25pt;">
-                        <td class="xl27" style="height: 47.25pt;" height="63">10:35-11:15</td>
-                        <td class="xl36" style="width: 144pt;" width="192">Навчання грамоти</td>
-                        <td class="xl32">Математика</td>
-                        <td class="xl33">Іноземна мова</td>
-                        <td class="xl34">Навчання грамоти</td>
-                        <td class="xl37">Технології/інформатика</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11:30-12:10&quot;}">11:30-12:10</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">
+                            <div>
+                                <div>Фізична культура</div>
+                            </div>
+                        </td>
                     </tr>
-                    <tr style="height: 23.25pt;">
-                        <td class="xl27" style="height: 23.25pt;" height="31">11:15-11:30</td>
-                        <td class="xl31" style="width: 144pt;" width="192">Перерва</td>
-                        <td class="xl31" style="width: 125pt;" width="167">Перерва</td>
-                        <td class="xl31" style="width: 141pt;" width="188">Перерва</td>
-                        <td class="xl31" style="width: 131pt;" width="174">Перерва</td>
-                        <td class="xl31" style="width: 152pt;" width="202">Перерва</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;12:10-12:25&quot;}">12:10-12:25</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Обід&quot;}">Обід</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Обід&quot;}">Обід</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Обід&quot;}">Обід</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Обід&quot;}">Обід</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Обід&quot;}">Обід</td>
                     </tr>
-                    <tr style="height: 42.75pt;">
-                        <td class="xl27" style="height: 42.75pt;" height="57">11:30-12:10</td>
-                        <td class="xl37">Я досліджую світ</td>
-                        <td class="xl34">Навчання грамоти</td>
-                        <td class="xl34">Навчання грамоти</td>
-                        <td class="xl37">Я досліджую світ</td>
-                        <td class="xl37">Я досліджую світ</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;12:25-13:05&quot;}">12:25-13:05</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Мистецтво&quot;}">Мистецтво</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна мова</td>
+                        <td colspan="1" rowspan="3" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Робототехніка&quot;}">
+                            <div>Робототехніка</div>
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">
+                            <div>
+                                <div>Іноземна мова</div>
+                            </div>
+                        </td>
                     </tr>
-                    <tr style="height: 36.75pt;">
-                        <td class="xl38" style="height: 36.75pt;" height="49">12:10-12:40</td>
-                        <td class="xl35">Обід</td>
-                        <td class="xl35">Обід</td>
-                        <td class="xl35">Обід</td>
-                        <td class="xl35">Обід</td>
-                        <td class="xl35">Обід</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;13:05-13:35&quot;}">13:05-13:35</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
                     </tr>
-                    <tr style="height: 51.75pt;">
-                        <td class="xl27" style="height: 51.75pt;" height="69">12:40-13:20</td>
-                        <td class="xl40" style="width: 144pt;" width="192">Розвиток продуктивного мислення</td>
-                        <td class="xl34">Навчання грамоти</td>
-                        <td class="xl34">Навчання грамоти</td>
-                        <td class="xl70" style="width: 131pt; height: 111.0pt;" rowspan="3" width="174" height="148">
-                            Основи робототехніки (1,30 год)<span style="mso-spacerun: yes;">&nbsp;</span></td>
-                        <td class="xl39">Мистецтво</td>
-                    </tr>
-                    <tr style="height: 18.75pt;">
-                        <td class="xl38" style="height: 18.75pt;" height="25">13:20-13:35</td>
-                        <td class="xl35">Перерва</td>
-                        <td class="xl35">Перерва</td>
-                        <td class="xl35">Перерва</td>
-                        <td class="xl35">Перерва</td>
-                    </tr>
-                    <tr style="height: 40.5pt;">
-                        <td class="xl27" style="height: 40.5pt;" height="54">13:35-14:15</td>
-                        <td class="xl42" style="width: 144pt;" width="192">Фізична культура</td>
-                        <td class="xl39">Мистецтво</td>
-                        <td class="xl42" style="width: 141pt;" width="188">Фізична культура</td>
-                        <td class="xl42" style="width: 152pt;" width="202">Творче конструювання</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;13:35-14:15&quot;}">13:35-14:15</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Мистецтво&quot;}">Мистецтво</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">
+                            <div>
+                                <div>Я досліджую світ</div>
+                            </div>
+                        </td>
                     </tr>
                     </tbody>
                 </table>
-                <table style="border-collapse: collapse; width: 761pt;" width="1023">
-                    <colgroup>
-                        <col style="width: 92pt;" width="123">
-                        <col style="width: 140pt;" width="186">
-                        <col style="width: 125pt;" width="167">
-                        <col style="width: 133pt;" width="177">
-                        <col style="width: 123pt;" width="164">
-                        <col style="width: 148pt;" width="197">
-                    </colgroup>
+                <br>
+                <p class="text-center">Орієнтовний розклад для 2-го класу</p>
+                <br>
+                <table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="100"><col width="100"><col width="100"><col width="100"><col width="100"><col width="100"></colgroup>
                     <tbody>
-                    <tr style="height: 42.0pt;">
-                        <td class="xl77" style="width: 761pt; height: 42.0pt;" colspan="6" width="1014" height="56">
-                            Орієнтовний розклад 2 клас
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Понеділок&quot;}">Понеділок</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Вівторок&quot;}">Вівторок</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Середа&quot;}">Середа</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Четвер&quot;}">Четвер</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;П'ятниця&quot;}">П'ятниця</td>
+                    </tr>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;08:30-09:10&quot;}">08:30-09:10</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ранкова зустріч&quot;}">Ранкова зустріч</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">Фізична культура</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Тренінг з емоційного інтелекту&quot;}">Тренінг з емоційного інтелекту</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">Фізична культура</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Творче конструювання&quot;}">
+                            <div>
+                                <div>Творче конструювання</div>
+                            </div>
                         </td>
                     </tr>
-                    <tr style="height: 18.75pt;">
-                        <td class="xl44" style="height: 18.75pt;" height="25">&nbsp;</td>
-                        <td class="xl44">Понеділок</td>
-                        <td class="xl44">Вівторок</td>
-                        <td class="xl44">Середа</td>
-                        <td class="xl44">Четвер</td>
-                        <td class="xl44">П'ятниця</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09:10-09:25&quot;}">09:10-09:25</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
                     </tr>
-                    <tr style="height: 30.75pt;">
-                        <td class="xl46" style="height: 30.75pt;" height="41">08:30-09:10</td>
-                        <td class="xl47" style="width: 140pt;" width="186">Ранкова зустріч</td>
-                        <td class="xl48" style="width: 125pt;" width="167">Фізична культура</td>
-                        <td class="xl48" style="width: 133pt;" width="177">Ранкова зустріч</td>
-                        <td class="xl48" style="width: 123pt;" width="164">Фізична культура</td>
-                        <td class="xl48" style="width: 148pt;" width="197">Фізична культура</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09:25-10:05&quot;}">09:25-10:05</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Математика&quot;}">Математика</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Математика&quot;}">Математика</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Математика&quot;}">Математика</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Математика&quot;}">Математика</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Математика&quot;}">Математика</td>
                     </tr>
-                    <tr style="height: 24.0pt;">
-                        <td class="xl49" style="width: 92pt; height: 24.0pt;" width="123" height="32">09:10-09:25</td>
-                        <td class="xl50" style="width: 140pt;" width="186">Перерва</td>
-                        <td class="xl50" style="width: 125pt;" width="167">Перерва</td>
-                        <td class="xl50" style="width: 133pt;" width="177">Перерва</td>
-                        <td class="xl50" style="width: 123pt;" width="164">Перерва</td>
-                        <td class="xl50" style="width: 148pt;" width="197">Перерва</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10:05-10:35&quot;}">10:05-10:35</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Сніданок&quot;}">Сніданок</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Сніданок&quot;}">Сніданок</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Сніданок&quot;}">Сніданок</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Сніданок&quot;}">Сніданок</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Сніданок&quot;}">Сніданок</td>
                     </tr>
-                    <tr style="height: 39.0pt;">
-                        <td class="xl46" style="height: 39.0pt;" height="52">09:25-10:05</td>
-                        <td class="xl51">Математика</td>
-                        <td class="xl52">Іноземна мова</td>
-                        <td class="xl51">Математика</td>
-                        <td class="xl53" style="width: 123pt;" width="164">Українська мова та читання</td>
-                        <td class="xl51">Математика</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10:35-11:15&quot;}">10:35-11:15</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">
+                            <div>
+                                <div>Я досліджую світ</div>
+                            </div>
+                        </td>
                     </tr>
-                    <tr style="height: 33.0pt;">
-                        <td class="xl46" style="height: 33.0pt;" height="44">10:05-10:35</td>
-                        <td class="xl54">Сніданок</td>
-                        <td class="xl54">Сніданок</td>
-                        <td class="xl54">Сніданок</td>
-                        <td class="xl54">Сніданок</td>
-                        <td class="xl54">Сніданок</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11:15-11:30&quot;}">11:15-11:30</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
                     </tr>
-                    <tr style="height: 51.75pt;">
-                        <td class="xl46" style="height: 51.75pt;" height="69">10:35-11:15</td>
-                        <td class="xl53" style="width: 140pt;" width="186">Українська мова та читання</td>
-                        <td class="xl51">Математика</td>
-                        <td class="xl52">Іноземна мова</td>
-                        <td class="xl53" style="width: 123pt;" width="164">Українська мова та читання</td>
-                        <td class="xl55">Я досліджую світ</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11:30-12:10&quot;}">11:30-12:10</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">
+                            <div>
+                                <div>Фізична культура</div>
+                            </div>
+                        </td>
                     </tr>
-                    <tr style="height: 25.5pt;">
-                        <td class="xl46" style="height: 25.5pt;" height="34">11:15-11:30</td>
-                        <td class="xl50" style="width: 140pt;" width="186">Перерва</td>
-                        <td class="xl50" style="width: 125pt;" width="167">Перерва</td>
-                        <td class="xl50" style="width: 133pt;" width="177">Перерва</td>
-                        <td class="xl50" style="width: 123pt;" width="164">Перерва</td>
-                        <td class="xl50" style="width: 148pt;" width="197">Перерва</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;12:10-12:25&quot;}">12:10-12:25</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Обід&quot;}">Обід</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Обід&quot;}">Обід</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Обід&quot;}">Обід</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Обід&quot;}">Обід</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Обід&quot;}">Обід</td>
                     </tr>
-                    <tr style="height: 53.25pt;">
-                        <td class="xl46" style="height: 53.25pt;" height="71">11:30-12:10</td>
-                        <td class="xl52">Іноземна мова</td>
-                        <td class="xl53" style="width: 125pt;" width="167">Українська мова та читання</td>
-                        <td class="xl53" style="width: 133pt;" width="177">Українська мова та читання</td>
-                        <td class="xl55">Я досліджую світ</td>
-                        <td class="xl55">Інформатика</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;12:25-13:05&quot;}">12:25-13:05</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна мова</td>
+                        <td colspan="1" rowspan="3" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Робототехніка&quot;}">
+                            <div>Робототехніка</div>
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна мова</td>
                     </tr>
-                    <tr style="height: 36.75pt;">
-                        <td class="xl56" style="height: 36.75pt;" height="49">12:10-12:40</td>
-                        <td class="xl54">Обід</td>
-                        <td class="xl54">Обід</td>
-                        <td class="xl54">Обід</td>
-                        <td class="xl54">Обід</td>
-                        <td class="xl54">Обід</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;13:05-13:35&quot;}">13:05-13:35</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Перерва&quot;}">Перерва</td>
                     </tr>
-                    <tr style="height: 48.75pt;">
-                        <td class="xl46" style="height: 48.75pt;" height="65">12:40-13:20</td>
-                        <td class="xl55">Я досліджую світ</td>
-                        <td class="xl53" style="width: 125pt;" width="167">Українська мова та читання</td>
-                        <td class="xl53" style="width: 133pt;" width="177">Українська мова та читання</td>
-                        <td class="xl74" style="width: 123pt; height: 126.75pt;" rowspan="3" width="164" height="169">
-                            Основи робототехніки (1,30 год)<span style="mso-spacerun: yes;">&nbsp;</span></td>
-                        <td class="xl57">Мистецтво</td>
-                    </tr>
-                    <tr style="height: 23.25pt;">
-                        <td class="xl56" style="height: 23.25pt;" height="31">13:20-13:35</td>
-                        <td class="xl54">Перерва</td>
-                        <td class="xl54">Перерва</td>
-                        <td class="xl54">Перерва</td>
-                        <td class="xl54">Перерва</td>
-                    </tr>
-                    <tr style="height: 54.75pt;">
-                        <td class="xl46" style="height: 54.75pt;" height="73">13:35-14:15</td>
-                        <td class="xl58" style="width: 140pt;" width="186">Розвиток продуктивного мислення</td>
-                        <td class="xl57">Мистецтво</td>
-                        <td class="xl59" style="width: 133pt;" width="177">Технології</td>
-                        <td class="xl60" style="width: 148pt;" width="197">Творче конструювання</td>
+                    <tr>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;13:35-14:15&quot;}">13:35-14:15</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Мистецтво&quot;}">Мистецтво</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Мистецтво&quot;}">Мистецтво</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">
+                            <div>
+                                <div>Я досліджую світ</div>
+                            </div>
+                        </td>
                     </tr>
                     </tbody>
                 </table>
@@ -524,10 +559,11 @@ if (!isset($popUpInfo) || $popUpInfo != 'false') {
                         Це ліцензовані початкові школи, які розташовані поруч з вашою домівкою.
                         Навчаємо дітей за авторською освітньою програмою з додаванням STEM-підходу.
                         <br>
-                        Школи розташовані на Осокорках, Позняках, Нивках, Оболоні, Троєщині, Печерську, Солом’янці, Лук’янівці.
+                        Школи розташовані на Осокорках, Позняках, Нивках, Оболоні, Троєщині, Печерську, Солом’янці.
                     </p>
                     <div class="index-overlay__container__item-a-holder">
-                        <a href="#!" class="index-overlay__container__item-a" id="visitorCurrentSite">Сайт початкових шкіл</a>
+                        <a href="#!" class="index-overlay__container__item-a" id="visitorCurrentSite">Сайт початкових
+                            шкіл</a>
                     </div>
                 </div>
             </div>

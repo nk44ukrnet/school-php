@@ -12,23 +12,25 @@ include 'inc/header.php';
                 <div class="event__hero">
                     <div class="event__content">
                         <h1 class="heading-primary">Презентація початкової школи <br> Inventor School </h1>
-                        <p>для батьків та дітей 1-3 класів</p>
-                        <p><strong>Коли:</strong> 20-31 березня</p>
-                        <p><strong>Локації шкіл:</strong> Позняки, Осокорки, Оболонь, Печерськ,
+                        <p class="font-md">для батьків та дітей 1-3 класів</p>
+                        <p class="font-md"><strong>Коли:</strong> 20-31 березня</p>
+                        <p class="font-md"><strong>Локації шкіл:</strong> Позняки, Осокорки, Оболонь, Печерськ,
                             Нивки, Троєщина, Солом’янка
                         </p>
-                        <a href="#!" class="btn offer-btn btn-red" data-modal-id="modalOffer">Зереєструватися </a>
+                        <a href="#!" class="btn offer-btn btn-red btn-md" data-modal-id="modalOffer">Зереєструватися </a>
                     </div>
                     <img src="img/school-presentation.png" alt="Presentation" class="event__img" loading="lazy">
                 </div>
 
                 <div class="event__description">
-                    <p>Ви у пошуках початкової школи поруч із вашим домом? У якій ваша дитина буде навчатися із
-                        задоволенням і де її навчать вчитися? </p>
+                    <h2 class="heading-secondary">Ви у пошуках початкової школи поруч із вашим домом?
+                        <br>
+                        У якій ваша дитина буде навчатися із
+                        задоволенням і де її навчать вчитися? </h2>
                     <br>
-                    <p>Запрошуємо познайомитися із початковою ліцензованою школою Inventor School!</p>
+                    <h2 class="font-weight-normal">Запрошуємо познайомитися із початковою ліцензованою школою Inventor School!</h2>
                     <br><br>
-                    <h2 class="heading-secondary">Графік презентацій початкових шкіл Inventor School</h2>
+                    <h2 class="heading-secondary text-center">Графік презентацій початкових шкіл Inventor School</h2>
                     <br>
                     <div class="event__table-wrapper">
                         <table class="event__table">
@@ -165,9 +167,9 @@ include 'inc/header.php';
                         </table>
                     </div>
                     <br>
-                    <p>На презентації школи ви дізнаєтеся про: </p>
+                    <p class="font-md">На презентації школи ви дізнаєтеся про: </p>
                     <br>
-                    <ul>
+                    <ul class="font-sm">
                         <li>навчальні програми та STEM-підхід;</li>
                         <li>проєктний формат навчання;</li>
                         <li>ефективний режим школяра;</li>
@@ -182,6 +184,49 @@ include 'inc/header.php';
                         Кількість місць обмежена!
                     </h2>
                 </div>
+                <br><br>
+                <section class="event_offer event1_offer">
+                    <div class="inner">
+                        <div class="left">
+                            <h2>Кількість учасників заходу обмежена!</h2>
+                            <h3>Заповніть форму та отримайте персональне запрошення</h3>
+                        </div>
+                        <div class="right">
+                            <form class="form-offer" name="offer-event-bot">
+                                <div class="form-group">
+                                    <input type="text" placeholder="ім'я (обов'язково)" name="name_submit_hidden" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" placeholder="email (обов'язково)" name="email_submit_hidden" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="tel" placeholder="телефон (обов'язково)" name="phone_submit_hidden" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="number" placeholder="вік дитини (обов'язково)" name="age_submit_hidden" min="1"
+                                           max="17" required>
+                                </div>
+                                <input type="hidden" value="Презентація школи" name="message">
+                                <div class="form-group">
+                                    <select name="selec_school" class="schools-list" required>
+                                        <option value="" selected disabled> Оберіть найближчу школу</option>
+                                        <!--                        <option value="м.Позняки, вул.Б.Гмирі, 6">м.Позняки, вул.Б.Гмирі, 6</option>-->
+                                        <!--                        <option value="м.Осокорки, вул.Дніпровська Набережна, 25а">м.Осокорки, вул.Дніпровська-->
+                                        <!--                            Набережна, 25а-->
+                                        <!--                        </option>-->
+                                        <!--                        <option value="м.Нивки, вул.Олександрівська, 1">м.Нивки, вул.Олександрівська, 1</option>-->
+                                        <!--                        <option value="м.Оболонь, вул. Героїв Сталінграду, 21/38">м.Оболонь, вул. Героїв-->
+                                        <!--                            Сталінграду, 21/38-->
+                                        <!--                        </option>-->
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <input type="submit" value="Надіслати" class="btn submit">
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </section>
 
             </div>
         </div>

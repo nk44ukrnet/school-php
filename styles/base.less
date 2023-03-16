@@ -17,6 +17,8 @@
 
 //colors:
 @blue: #1F75BF;
+@blue1: #0070b9;
+@semiBlueColor1: #E6F8FE;
 @pink: #F3C7D5;
 @green: #32A858;
 @aqua: #38C9F3;
@@ -105,6 +107,16 @@ a {
   color: #fff;
 }
 
+.btn-md {
+  padding: 20px 40px;
+  font-size: 25px;
+  
+  @media (max-width: @bp-sm) {
+   padding: 15px 30px;
+    font-size: 22px;
+  }
+}
+
 .shadow {
   box-shadow: 3px 5px 8px rgba(@gray-secondary, .25);
 }
@@ -127,5 +139,27 @@ a {
     .shadow();
     background-color: #fff;
   }
+}
+
+.text-center {
+  text-align: center;
+}
+
+.font-md {
+  font-size: 30px;
+  line-height: 150%;
+
+  @media (max-width: @bp-md) {
+    font-size: 22px;
+  }
+}
+
+.font-sm {
+  font-size: 22px;
+  line-height: 150%;
+}
+
+.font-weight-normal {
+  font-weight: normal;
 }
 

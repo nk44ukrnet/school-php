@@ -350,6 +350,13 @@ if (document.forms['offer-event']) {
     })
 }
 
+if (document.forms['offer-event-bot']) {
+    document.forms['offer-event-bot'].addEventListener('submit', e => {
+        e.preventDefault();
+        postViaFetch(scriptTolGGLsheetURL, 'offer-event-bot', 'thankyou.php');
+    })
+}
+
 if (document.forms['offer-ask']) {
     document.forms['offer-ask'].addEventListener('submit', e => {
         e.preventDefault();
@@ -377,7 +384,7 @@ if (schoolsList) {
             dataArr.forEach(item => {
                 let {title, id, city} = item;
                 //title = title.replace('<br>', '').replace(', INVENTOR', '').replace('. INVENTOR', '').replace(' INVENTOR', '').trim();
-                if (city.toLowerCase() == 'київ' && id != '25') {
+                if (city.toLowerCase() == 'київ' && id != '25' && id != '199') {
                     schoolsList.forEach(school => {
                         school.insertAdjacentHTML('beforeend', `<option value="${id}">${title}</option>`);
                     })

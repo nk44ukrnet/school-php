@@ -273,16 +273,16 @@ include "inc/header.php";
 
 
 
-                    <!--                    <div class="programs__list-item" data-modal-id="modalProgram18">-->
-                    <!--                        <div class="inner">-->
-                    <!--                            <div class="inner-img">-->
-                    <!--                                <img src="img/ed_prog18.png" alt="program">-->
-                    <!--                            </div>-->
-                    <!--                            <p>-->
-                    <!--                                Фізична підготовка-->
-                    <!--                            </p>-->
-                    <!--                        </div>-->
-                    <!--                    </div>-->
+                                        <div class="programs__list-item" data-modal-id="modalProgram18">
+                                            <div class="inner">
+                                                <div class="inner-img">
+                                                    <img src="img/ed_prog18.png" alt="program">
+                                                </div>
+                                                <p>
+                                                    Фізична підготовка
+                                                </p>
+                                            </div>
+                                        </div>
 
 
 
