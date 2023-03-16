@@ -1,0 +1,46 @@
+.event {
+  &__container {
+    padding-block: 80px;
+  }
+
+  &__hero {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 50px;
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    & > * {
+      flex: 1 1 300px;
+    }
+  }
+  &__content {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+  }
+  &__img {
+    width: 100%;
+    display: block;
+    max-width: 500px;
+    flex: 0 1 500px;
+  }
+  &__description {
+    margin-top: 20px;
+  }
+  &__table {
+    border: 1px solid @gray-secondary;
+    border-collapse: collapse;
+    td {
+      padding: 10px;
+      border: 1px solid @gray-secondary;
+      margin: 0;
+    }
+  }
+  ul, li {
+    list-style-position: inside;
+  }
+}

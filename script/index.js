@@ -343,6 +343,13 @@ if (document.forms['offer-apply']) {
     })
 }
 
+if (document.forms['offer-event']) {
+    document.forms['offer-event'].addEventListener('submit', e => {
+        e.preventDefault();
+        postViaFetch(scriptTolGGLsheetURL, 'offer-event', 'thankyou.php');
+    })
+}
+
 if (document.forms['offer-ask']) {
     document.forms['offer-ask'].addEventListener('submit', e => {
         e.preventDefault();

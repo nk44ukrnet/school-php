@@ -88,6 +88,10 @@ a {
   padding: 10px 27px;
   border-radius: 15px;
   box-shadow: 2px 5px 3px rgba(241, 243, 248, 0.5);
+  text-decoration: none;
+}
+.btn:hover {
+  text-decoration: none;
 }
 .offer-btn {
   transition: all 0.25s linear;
@@ -96,6 +100,10 @@ a {
   .offer-btn:hover {
     transform: translateY(4px);
   }
+}
+.btn-red {
+  background-color: #FF0000;
+  color: #fff;
 }
 .shadow {
   box-shadow: 3px 5px 8px rgba(198, 198, 198, 0.25);
@@ -151,9 +159,11 @@ a {
   right: 50%;
   transform: translate(50%, 100%);
 }
-.header__phone ._phone {
+.header__phone span {
   text-align: right;
-  display: block;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
   width: -moz-fit-content;
   width: fit-content;
   margin-left: auto;
@@ -164,12 +174,12 @@ a {
   box-shadow: 3px 5px 8px rgba(198, 198, 198, 0.25);
 }
 @media (max-width: 992px) {
-  .header__phone ._phone {
+  .header__phone span {
     font-size: inherit;
   }
 }
 @media (max-width: 768px) {
-  .header__phone ._phone {
+  .header__phone span {
     box-shadow: none;
     padding: 5px 5px;
     border-radius: 0;
@@ -192,6 +202,7 @@ a {
 .header__nav > ul {
   display: flex;
   flex-wrap: wrap;
+  gap: 15px;
 }
 .header__nav > ul > li {
   padding-bottom: 45px;
@@ -216,9 +227,6 @@ a {
 }
 .header__nav > ul li._active .caret-down-size {
   transform: rotate(180deg);
-}
-.header__nav > ul li:not(:last-child) {
-  margin-right: 25px;
 }
 @media (any-hover: hover) {
   .header__nav > ul li:hover ul {
@@ -1811,5 +1819,47 @@ a {
   align-items: center;
   line-height: 24px;
   padding: 27px 17px 19px;
+}
+.event__container {
+  padding-block: 80px;
+}
+.event__hero {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+.event__hero h1 {
+  margin-bottom: 20px;
+}
+.event__hero > * {
+  flex: 1 1 300px;
+}
+.event__content {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+.event__img {
+  width: 100%;
+  display: block;
+  max-width: 500px;
+  flex: 0 1 500px;
+}
+.event__description {
+  margin-top: 20px;
+}
+.event__table {
+  border: 1px solid #C6C6C6;
+  border-collapse: collapse;
+}
+.event__table td {
+  padding: 10px;
+  border: 1px solid #C6C6C6;
+  margin: 0;
+}
+.event ul,
+.event li {
+  list-style-position: inside;
 }
 /*# sourceMappingURL=all.css.map */

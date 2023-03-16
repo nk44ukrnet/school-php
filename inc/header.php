@@ -61,8 +61,8 @@
     <div class="header__wrapper">
         <div class="header__content">
             <div class="header__logo">
-<!--                <a href="index"><img src="img/logo.svg" alt="logo"></a>-->
-                <a href="index"><img src="img/logo-v2.png" alt="logo"></a>
+                <a href="index"><img src="img/logo.svg" alt="logo"></a>
+<!--                <a href="index"><img src="img/logo-v2.png" alt="logo"></a>-->
             </div>
             <nav class="header__nav">
                 <ul id="headerNavUl">
@@ -75,6 +75,7 @@
                         </ul>
                     </li>
                     <li><a href="entry">Батькам</a></li>
+                    <li><a href="event">Презентація школи</a></li>
                     <li><a href="vacancy">Вакансії</a></li>
                     <li><a href="contacts">Контакти</a></li>
                 </ul>
@@ -84,7 +85,10 @@
             </a>
         </div>
         <div class="header__phone">
+            <span>
+            <a href="tel:+380503155790"><i class="fas fa-phone-alt"></i> +38 (050) 315 57 90</a>
             <a href="" class="_phone"><i class="fas fa-phone-alt"></i> </a>
+            </span>
         </div>
     </div>
 </header>

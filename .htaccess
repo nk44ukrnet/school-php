@@ -1,7 +1,0 @@
-RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
-
-##ExpiresByType text/css "access plus 1 day"
-##ExpiresByType application/javascript "access plus 1 day"
-
-ErrorDocument 404 /404.php

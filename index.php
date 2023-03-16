@@ -17,8 +17,8 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     </h2>
                     <a href="#!" class="btn offer-btn" data-modal-id="modalOffer">Записатися на консультацію</a>
                     <p class="desc">
-                        Inventor School – чартерна школа, яка знаходиться поруч з вашою домівкою. Це зручна, безпечна і
-                        сучасна форма навчання. Діти навчаються за освітніми програмами НУШ з додаванням STEM-підходу.
+                        Inventor School – початкова школа, яка знаходиться поруч з вашою домівкою. Це зручна, безпечна і
+                        сучасна форма навчання. Діти навчаються за авторською програмою з додаванням STEM-підходу.
                         Професійна команда вчителів робить все для ефективного розвитку дітей і створює доброзичливу
                         атмосферу навчання.
                     </p>
@@ -156,7 +156,7 @@ $desc = "INVENTOR початкова школа - це школа, де вико
             <div class="content_size">
                 <div class="packages__holder">
                     <div class="packages__item">
-                        <div class="packages__cell packages__cell_highlight">10 000 грн./місяць</div>
+                        <div class="packages__cell packages__cell_highlight">11 000 грн./місяць</div>
                         <div class="packages__cell"><strong>1 клас</strong></div>
                         <div class="packages__cell">Щорічний внесок 10 000 грн.</div>
                         <div class="packages__cell">Перебування у школі неповний навчальний день з 8:00 до 14:15</div>
@@ -187,7 +187,7 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                         </div>
                     </div>
                     <div class="packages__item">
-                        <div class="packages__cell packages__cell_highlight">10 000 грн./місяць</div>
+                        <div class="packages__cell packages__cell_highlight">11 000 грн./місяць</div>
                         <div class="packages__cell"><strong>2 клас</strong></div>
                         <div class="packages__cell">Щорічний внесок 10 000 грн.</div>
                         <div class="packages__cell">Перебування у школі неповний навчальний день з 8:00 до 14:15</div>
@@ -519,15 +519,15 @@ if (!isset($popUpInfo) || $popUpInfo != 'false') {
                 <img src="https://school.inventorschool.org.ua/wp-content/themes/inventor2/img/about-screen1-i2a.png"
                      alt="School">
                 <div class="index-overlay__container__item-text">
-                    <h6>Чартерні школи Inventor School</h6>
+                    <h6>Початкові школи Inventor School</h6>
                     <p>
                         Це ліцензовані початкові школи, які розташовані поруч з вашою домівкою.
-                        Навчаємо дітей за освітніми програмами НУШ з додаванням STEM-підходу.
+                        Навчаємо дітей за авторською освітньою програмою з додаванням STEM-підходу.
                         <br>
                         Школи розташовані на Осокорках, Позняках, Нивках, Оболоні, Троєщині, Печерську, Солом’янці, Лук’янівці.
                     </p>
                     <div class="index-overlay__container__item-a-holder">
-                        <a href="#!" class="index-overlay__container__item-a" id="visitorCurrentSite">Сайт чартерних шкіл</a>
+                        <a href="#!" class="index-overlay__container__item-a" id="visitorCurrentSite">Сайт початкових шкіл</a>
                     </div>
                 </div>
             </div>

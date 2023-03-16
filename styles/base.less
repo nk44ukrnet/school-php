@@ -55,9 +55,9 @@ a {
   text-decoration: none;
   color: @blue;
   @media (any-hover: hover) {
-     &:hover {
+    &:hover {
       text-decoration: underline;
-     }
+    }
   }
 }
 
@@ -84,6 +84,11 @@ a {
   padding: 10px 27px;
   border-radius: 15px;
   box-shadow: 2px 5px 3px rgba(@gray-light, .5);
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 .offer-btn {
@@ -95,6 +100,11 @@ a {
   }
 }
 
+.btn-red {
+  background-color: @red;
+  color: #fff;
+}
+
 .shadow {
   box-shadow: 3px 5px 8px rgba(@gray-secondary, .25);
 }
@@ -103,12 +113,14 @@ a {
   .form-group {
     margin-bottom: 15px;
   }
+
   input, select, textarea {
     &:not(input[type="submit"]) {
       width: 100%;
       padding: 10px;
     }
   }
+
   .submit {
     cursor: pointer;
     border: none;
