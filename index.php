@@ -26,6 +26,17 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                 </div>
             </div>
         </section>
+        
+        <div class="index-banner">
+            <img src="img/index-banner.png" alt="banner" loading="lazy" class="img-responsive">
+            <br><br>
+            <div class="content_size text-center">
+                <h2 class="heading-secondary">Презентація початкової школи Inventor School</h2>
+                <br>
+                <a href="event" class="btn offer-btn btn-red" style="margin-inline:auto;">Детальніше</a>
+            </div>
+
+        </div>
 
         <section class="advantages">
             <div class="advantages__wrapper">
