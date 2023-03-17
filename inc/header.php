@@ -75,7 +75,7 @@
                         </ul>
                     </li>
                     <li><a href="entry">Батькам</a></li>
-<!--                    <li><a href="event">Презентація школи</a></li>-->
+                    <li><a href="event">Презентація школи</a></li>
                     <li><a href="vacancy">Вакансії</a></li>
                     <li><a href="contacts">Контакти</a></li>
                 </ul>

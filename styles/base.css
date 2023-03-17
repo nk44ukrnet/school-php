@@ -8,8 +8,118 @@
 html {
   scroll-behavior: smooth;
 }
+body {
+  font-family: 'Stolzl-Regular', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000;
+}
 .template_size {
+  width: 100%;
   max-width: 1920px;
   margin: 0 auto;
+}
+.content_size {
+  width: 100%;
+  max-width: calc(1516px + 30px);
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+a {
+  text-decoration: none;
+  color: #1F75BF;
+}
+@media (any-hover: hover) {
+  a:hover {
+    text-decoration: underline;
+  }
+}
+._lock {
+  overflow: hidden;
+}
+@media (min-width: 768px) {
+  ._lock {
+    padding-right: 17px;
+  }
+}
+.img-responsive {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.btn {
+  display: block;
+  width: -moz-fit-content;
+  width: fit-content;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 10px 27px;
+  border-radius: 15px;
+  box-shadow: 2px 5px 3px rgba(241, 243, 248, 0.5);
+  text-decoration: none;
+}
+.btn:hover {
+  text-decoration: none;
+}
+.offer-btn {
+  transition: all 0.25s linear;
+}
+@media (any-hover: hover) {
+  .offer-btn:hover {
+    transform: translateY(4px);
+  }
+}
+.btn-red {
+  background-color: #FF0000;
+  color: #fff;
+}
+.btn-md {
+  padding: 20px 40px;
+  font-size: 25px;
+}
+@media (max-width: 576px) {
+  .btn-md {
+    padding: 15px 30px;
+    font-size: 22px;
+  }
+}
+.shadow {
+  box-shadow: 3px 5px 8px rgba(198, 198, 198, 0.25);
+}
+.form-offer .form-group {
+  margin-bottom: 15px;
+}
+.form-offer input:not(input[type="submit"]),
+.form-offer select:not(input[type="submit"]),
+.form-offer textarea:not(input[type="submit"]) {
+  width: 100%;
+  padding: 10px;
+}
+.form-offer .submit {
+  cursor: pointer;
+  border: none;
+  box-shadow: 3px 5px 8px rgba(198, 198, 198, 0.25);
+  background-color: #fff;
+}
+.text-center {
+  text-align: center;
+}
+.font-md {
+  font-size: 30px;
+  line-height: 150%;
+}
+@media (max-width: 768px) {
+  .font-md {
+    font-size: 22px;
+  }
+}
+.font-sm {
+  font-size: 22px;
+  line-height: 150%;
+}
+.font-weight-normal {
+  font-weight: normal;
 }
 /*# sourceMappingURL=base.css.map */
