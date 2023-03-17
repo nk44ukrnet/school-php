@@ -26,7 +26,7 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                 </div>
             </div>
         </section>
-        
+
         <div class="index-banner mobile-none">
             <img src="img/index-banner.png" alt="banner" loading="lazy" class="img-responsive">
             <br><br>
@@ -46,10 +46,10 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                                 <div class="side-text">
                                     <h4>Принципи навчального процесу</h4>
                                     <p>
-                                        Ми обрали освітні програми НУШ – школа, в якій комфортно вчитись і яка дасть
-                                        учням не зайві знання, а й практичні навички застосування знань у повсякденному
-                                        житті, нову школу, де навчать мислити критично, проводити власні експерименти та
-                                        вільно висловлювати власну думку.
+                                        Наші авторські програми із STEM-підходом допомагають дітям комфортно вчитися і
+                                        дають учням лише важливі знання та практичні навички їх застосування у
+                                        повсякденному житті. Ми учимо дітей мислити критично, проводити власні
+                                        експерименти та вільно висловлювати свою думку.
                                     </p>
                                 </div>
                                 <div class="side-img">
@@ -255,7 +255,15 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                 <h2 class="heading-primary">Розклад</h2>
                 <p class="text-center">Орієнтовний розклад для 1-го класу</p>
                 <br>
-                <table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="100"><col width="100"><col width="100"><col width="100"><col width="100"><col width="100"></colgroup>
+                <table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+                    <colgroup>
+                        <col width="100">
+                        <col width="100">
+                        <col width="100">
+                        <col width="100">
+                        <col width="100">
+                        <col width="100">
+                    </colgroup>
                     <tbody>
                     <tr>
                         <td>&nbsp;</td>
@@ -267,10 +275,18 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     </tr>
                     <tr>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;08:30-09:10&quot;}">08:30-09:10</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ранкова зустріч&quot;}">Ранкова зустріч</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">Фізична культура</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Тренінг з емоційного інтелекту&quot;}">Тренінг з емоційного інтелекту</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">Фізична культура</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ранкова зустріч&quot;}">Ранкова
+                            зустріч
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">Фізична
+                            культура
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Тренінг з емоційного інтелекту&quot;}">
+                            Тренінг з емоційного інтелекту
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">Фізична
+                            культура
+                        </td>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Творче конструювання&quot;}">
                             <div>
                                 <div>Творче конструювання</div>
@@ -303,10 +319,18 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     </tr>
                     <tr>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10:35-11:15&quot;}">10:35-11:15</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська
+                            мова
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська
+                            мова
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська
+                            мова
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую
+                            світ
+                        </td>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">
                             <div>
                                 <div>Українська мова</div>
@@ -323,10 +347,18 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     </tr>
                     <tr>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11:30-12:10&quot;}">11:30-12:10</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська
+                            мова
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська
+                            мова
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська
+                            мова
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую
+                            світ
+                        </td>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">
                             <div>
                                 <div>Фізична культура</div>
@@ -344,9 +376,14 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     <tr>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;12:25-13:05&quot;}">12:25-13:05</td>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Мистецтво&quot;}">Мистецтво</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна мова</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна мова</td>
-                        <td colspan="1" rowspan="3" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Робототехніка&quot;}">
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна
+                            мова
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна
+                            мова
+                        </td>
+                        <td colspan="1" rowspan="3"
+                            data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Робототехніка&quot;}">
                             <div>Робототехніка</div>
                         </td>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">
@@ -364,9 +401,13 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     </tr>
                     <tr>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;13:35-14:15&quot;}">13:35-14:15</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую
+                            світ
+                        </td>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Мистецтво&quot;}">Мистецтво</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую
+                            світ
+                        </td>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">
                             <div>
                                 <div>Я досліджую світ</div>
@@ -378,7 +419,15 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                 <br>
                 <p class="text-center">Орієнтовний розклад для 2-го класу</p>
                 <br>
-                <table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="100"><col width="100"><col width="100"><col width="100"><col width="100"><col width="100"></colgroup>
+                <table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+                    <colgroup>
+                        <col width="100">
+                        <col width="100">
+                        <col width="100">
+                        <col width="100">
+                        <col width="100">
+                        <col width="100">
+                    </colgroup>
                     <tbody>
                     <tr>
                         <td>&nbsp;</td>
@@ -390,10 +439,18 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     </tr>
                     <tr>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;08:30-09:10&quot;}">08:30-09:10</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ранкова зустріч&quot;}">Ранкова зустріч</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">Фізична культура</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Тренінг з емоційного інтелекту&quot;}">Тренінг з емоційного інтелекту</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">Фізична культура</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ранкова зустріч&quot;}">Ранкова
+                            зустріч
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">Фізична
+                            культура
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Тренінг з емоційного інтелекту&quot;}">
+                            Тренінг з емоційного інтелекту
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">Фізична
+                            культура
+                        </td>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Творче конструювання&quot;}">
                             <div>
                                 <div>Творче конструювання</div>
@@ -426,10 +483,18 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     </tr>
                     <tr>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10:35-11:15&quot;}">10:35-11:15</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська
+                            мова
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська
+                            мова
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська
+                            мова
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую
+                            світ
+                        </td>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">
                             <div>
                                 <div>Я досліджую світ</div>
@@ -446,10 +511,18 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     </tr>
                     <tr>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11:30-12:10&quot;}">11:30-12:10</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська мова</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую
+                            світ
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська
+                            мова
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Українська мова&quot;}">Українська
+                            мова
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую
+                            світ
+                        </td>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Фізична культура&quot;}">
                             <div>
                                 <div>Фізична культура</div>
@@ -466,13 +539,22 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                     </tr>
                     <tr>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;12:25-13:05&quot;}">12:25-13:05</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна мова</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна мова</td>
-                        <td colspan="1" rowspan="3" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Робототехніка&quot;}">
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую
+                            світ
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна
+                            мова
+                        </td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна
+                            мова
+                        </td>
+                        <td colspan="1" rowspan="3"
+                            data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Робототехніка&quot;}">
                             <div>Робототехніка</div>
                         </td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна мова</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Іноземна мова&quot;}">Іноземна
+                            мова
+                        </td>
                     </tr>
                     <tr>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;13:05-13:35&quot;}">13:05-13:35</td>
@@ -485,7 +567,9 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;13:35-14:15&quot;}">13:35-14:15</td>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Мистецтво&quot;}">Мистецтво</td>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Мистецтво&quot;}">Мистецтво</td>
-                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую світ</td>
+                        <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">Я досліджую
+                            світ
+                        </td>
                         <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Я досліджую світ&quot;}">
                             <div>
                                 <div>Я досліджую світ</div>
