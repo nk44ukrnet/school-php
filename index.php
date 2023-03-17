@@ -27,7 +27,7 @@ $desc = "INVENTOR початкова школа - це школа, де вико
             </div>
         </section>
         
-        <div class="index-banner mobile-only">
+        <div class="index-banner mobile-none">
             <img src="img/index-banner.png" alt="banner" loading="lazy" class="img-responsive">
             <br><br>
             <div class="content_size text-center">
