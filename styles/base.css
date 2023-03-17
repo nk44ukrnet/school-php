@@ -122,4 +122,9 @@ a {
 .font-weight-normal {
   font-weight: normal;
 }
+@media (max-width: 768px) {
+  .mobile-only {
+    display: none;
+  }
+}
 /*# sourceMappingURL=base.css.map */
