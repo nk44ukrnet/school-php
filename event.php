@@ -13,13 +13,13 @@ include 'inc/header.php';
                     <div class="event__content">
                         <h1 class="heading-primary">Презентація початкової школи <br> Inventor School </h1>
                         <p class="font-md">для батьків та дітей 1-3 класів</p>
-                        <p class="font-md"><strong>Коли:</strong> 20-31 березня</p>
+                        <p class="font-md"><strong>Коли:</strong> 20 березня - 1 квітня</p>
                         <p class="font-md"><strong>Локації шкіл:</strong> Позняки, Осокорки, Оболонь, Печерськ,
                             Нивки, Троєщина, Солом’янка
                         </p>
                         <a href="#!" class="btn offer-btn btn-red btn-md" data-modal-id="modalOffer">Зереєструватися </a>
                     </div>
-                    <img src="img/school-presentation.png" alt="Presentation" class="event__img" loading="lazy">
+                    <img src="img/school-presentation1.png" alt="Presentation" class="event__img" loading="lazy">
                 </div>
 
                 <div class="event__description">
