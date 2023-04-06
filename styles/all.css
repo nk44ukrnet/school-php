@@ -189,7 +189,7 @@ a {
 .header__phone {
   width: 100%;
   position: absolute;
-  bottom: 0;
+  bottom: 10px;
   right: 50%;
   transform: translate(50%, 100%);
 }
@@ -1612,7 +1612,7 @@ a {
   }
 }
 .entry__container {
-  padding-top: 40px;
+  padding-top: 75px;
   padding-bottom: 40px;
   width: 100%;
   max-width: calc(1516px + 30px);
@@ -1631,6 +1631,10 @@ a {
     font-size: 30px;
     line-height: 37px;
   }
+}
+.entry__container p {
+  width: 100%;
+  max-width: 610px;
 }
 .entry__container .btn {
   background-color: #fff;

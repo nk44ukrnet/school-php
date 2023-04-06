@@ -11,7 +11,7 @@ include 'inc/header.php';
                <h1>Навчання здійснюється у <br>
                    м. Києві за адресами:</h1>
 
-               <p class="contacts__locations">
+               <p class="contacts__locations font-sm">
                    Київ, Старонаводницька, 4в <br>
                    Київ, вул. Олександри Екстер, 3 <br>
                    Київ, Б. Гмирі, 6 <br>
