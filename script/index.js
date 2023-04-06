@@ -384,7 +384,7 @@ if (schoolsList) {
             dataArr.forEach(item => {
                 let {title, id, city} = item;
                 //title = title.replace('<br>', '').replace(', INVENTOR', '').replace('. INVENTOR', '').replace(' INVENTOR', '').trim();
-                if (city.toLowerCase() == 'київ' && id != '25' && id != '199') {
+                if (city.toLowerCase() == 'київ' && id != '25' && id != '199' && id != '27') {
                     schoolsList.forEach(school => {
                         school.insertAdjacentHTML('beforeend', `<option value="${id}">${title}</option>`);
                     })
