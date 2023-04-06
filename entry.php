@@ -9,8 +9,8 @@ include "inc/header.php";
         <div class="entry__wrapper">
             <div class="entry__container">
                 <h1>
-                    Розпочато набір до 1-3-х
-                    <br> класів на 2022-2023
+                    Розпочато набір до 1-2-х
+                    <br> класів на 2023-2024
                     <br> навчальний рік!
                 </h1>
                 <p>
