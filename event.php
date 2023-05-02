@@ -14,7 +14,7 @@ include 'inc/header.php';
                         <h1 class="heading-primary">Онлайн презентація <br> початкової школи <br>
                             Inventor School </h1>
                         <p class="font-md">для батьків та дітей 1-3 класів</p>
-                        <p class="font-md"><strong>Локації шкіл:</strong> Позняки, Осокорки, Оболонь, Печерськ,
+                        <p class="font-md"><strong>Локації шкіл:</strong> Позняки, Осокорки, Оболонь,
                             Нивки, Троєщина, Солом’янка
                         </p>
                         <a href="#!" class="btn offer-btn btn-red btn-md" data-modal-id="modalOffer">Зереєструватися </a>
