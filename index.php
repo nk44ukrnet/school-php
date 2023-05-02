@@ -166,7 +166,7 @@ $desc = "INVENTOR початкова школа - це школа, де вико
             <div class="content_size">
                 <div class="packages__holder">
                     <div class="packages__item">
-                        <div class="packages__cell packages__cell_highlight">15 000* грн/місяць</div>
+                        <div class="packages__cell packages__cell_highlight">15 000 грн/місяць</div>
                         <div class="packages__cell"><strong>1 клас</strong></div>
                         <div class="packages__cell">Щорічний внесок 16 500 грн.</div>
                         <div class="packages__cell">Перебування у школі неповний навчальний день з 8:00 до 14:15</div>
@@ -205,7 +205,7 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                         </div>
                     </div>
                     <div class="packages__item">
-                        <div class="packages__cell packages__cell_highlight">15 000* грн/місяць</div>
+                        <div class="packages__cell packages__cell_highlight">15 000 грн/місяць</div>
                         <div class="packages__cell"><strong>2 клас</strong></div>
                         <div class="packages__cell">Щорічний внесок 16 500 грн.</div>
                         <div class="packages__cell">Перебування у школі неповний навчальний день з 8:00 до 14:15</div>
@@ -245,8 +245,6 @@ $desc = "INVENTOR початкова школа - це школа, де вико
                         </div>
                     </div>
                 </div>
-                <p>* Вартість навчання у школі на Печерську (вул. Старонаводницька, 4В) 16 000 грн/міс</p>
-                <br>
             </div>
         </section>
 
