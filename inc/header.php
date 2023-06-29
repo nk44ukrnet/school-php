@@ -22,14 +22,13 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="styles/all.css?v=<?php echo filemtime('styles/all.css'); ?>">
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135646663-6"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0X38MQ95DM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-
-        gtag('config', 'UA-135646663-6');
+        gtag('config', 'G-0X38MQ95DM');
     </script>
     <meta name="facebook-domain-verification" content="9lueeapdru1imxktsohyrg283h6xs0" />
     <!-- Facebook Pixel Code -->
